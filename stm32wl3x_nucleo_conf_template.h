@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    stm32wl3x_nucleo_conf.h
+  * @file    stm32wl3x_nucleo_conf_template.h
   * @author  MCD Application Team
   * @brief   STM32WL3X nucleo board configuration file.
   *          This file should be copied to the application folder and renamed
